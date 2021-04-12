@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-extend-md",
+  "name": "Obsidian extend markdown",
+  "description": "DESCRIPTION",
+  "version": "0.0.1",
+  "minAppVersion": "0.10.11",
+  "author": "dyve",
+  "authorUrl": "https://github.com/dyve-dev",
+  "isDesktopOnly": true
+}
