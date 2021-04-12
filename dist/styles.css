@@ -1,3 +1,7 @@
+.reserved-char {
+  color: #8875ff;
+}
+
 .git-compare {
   fill: white;
 }

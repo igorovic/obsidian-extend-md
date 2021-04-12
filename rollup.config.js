@@ -32,7 +32,7 @@ const Config = {
   ],
   external: ["obsidian", "fs", "path", "util"],
   plugins: [
-    typescript({ target: "ES2020" }),
+    typescript({ target: "ESnext" }),
     nodeResolve({ browser: true }),
     commonjs(),
     scss({
